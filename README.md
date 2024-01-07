@@ -1,3 +1,7 @@
+![Hey there, I'm Jade Hatanaka. I'm a software developer, a Computer Science double degree student @UFRGS @ENSIMAG and infosec enthusiast. Check out my work](https://github.com/shmjade/shmjade/raw/master/header.gif)
+
+
+
 <h1 align="center">Hi 👋, I'm Jade Hatanaka</h1>
 <h3 align="center">A Software Engineer from Brazil, currently doing a Double Degree in France</h3>
 
