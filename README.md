@@ -1,4 +1,4 @@
-![Hey there, I'm Jade Hatanaka. I'm a software developer, a Computer Science double degree student @UFRGS @ENSIMAG and infosec enthusiast. Check out my work](https://github.com/shmjade/shmjade/raw/master/header.gif)
+![Hey there, I'm Jade Hatanaka. I'm a software developer and a Computer Science student.](https://github.com/shmjade/shmjade/blob/main/header.gif)
 
 
 
