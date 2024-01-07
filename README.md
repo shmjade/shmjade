@@ -38,7 +38,7 @@ Currently, I am focusing on Android Development, Non Relational Databases and Mi
 
 📝 If you'd like to know more about me, you may check my [Personal Portfolio](https://medium.com/@jadehatanaka): 
 
-<img src="portfolio.gif" alt="Header"  width="600" align="center"/>
+<img src="https://github.com/shmjade/shmjade/blob/main/portfolio.gif" alt="Header"  width="600" align="center"/>
 
 
 </br>
