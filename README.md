@@ -38,10 +38,7 @@ Currently, I am focusing on Android Development, Non Relational Databases and Mi
 
 📝 If you'd like to know more about me, you may check my [Personal Portfolio](https://medium.com/@jadehatanaka): 
 
-<video autoplay loop muted>
-  <source src="portfolio.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="portfolio.gif" alt="Header"  width="1200"/>
 
 
 </br>
