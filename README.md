@@ -1,4 +1,4 @@
-<img src="header.gif" width=100%/>
+<img src="header.gif" alt="Header"  width="1200"/>
 
 
 <h1 align="center">Hi 👋, I'm Jade Hatanaka</h1>
