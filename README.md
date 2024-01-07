@@ -25,11 +25,24 @@ Currently, I am focusing on Android Development, Non Relational Databases and Mi
 
 </br>
 
+
 <h3 align="left">👩🏽‍💻 Some articles</h3>
 
 📝 I like to write articles on [Medium](https://medium.com/@jadehatanaka). Here are some of them:
 - [Get your own domain using Github Student Developer Pack](https://medium.com/@jadehatanaka/get-your-own-domain-using-github-student-developer-pack-c1b463a32b4e)
 - [[undo Git commit] How to move HEAD to a previous commit](https://medium.com/@jadehatanaka/undo-git-commit-how-to-move-head-to-a-previous-commit-a1ebeb8a6757)
+
+</br>
+
+<h3 align="left">👩🏽‍💻 My personal portfolio</h3>
+
+📝 If you'd like to know more about me, you may check my [Personal Portfolio](https://medium.com/@jadehatanaka): 
+
+<video autoplay loop muted>
+  <source src="portfolio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 </br>
 
