@@ -1,10 +1,10 @@
 <img src="https://github.com/shmjade/shmjade/blob/main/header-nlp.gif" alt="Header"  width="1200"/>
 
 
-<h1 align="center">Hi 👋, I'm Jade Hatanaka</h1>
+<h1 align="center">Hi 👋, I'm Jade </h1>
 🇧🇷 &nbsp;I'm mainly focused on my Double Degree program now, but, in paralell, I keep some personal projects.
 
-Currently, I am focusing on Android Development, Non Relational Databases and Microsservices for an application in progress.
+Currently, I am focusing on Natural Language Processing and Deep Learning. Check out some projects on my [Data Science dedicated repository](https://github.com/shmjade/data-science).
 
 </br>
 
@@ -17,9 +17,9 @@ Currently, I am focusing on Android Development, Non Relational Databases and Mi
 </br>
 
 <h3 align="left">👩🏽‍💻 A bit about my Education</h3>
-🎓 🇧🇷 I am pursuing a bachelor degree in <b>Computer Science</b> at <u>Universidade Federal do Rio Grande do Sul</u>
+🎓 🇫🇷 I am pursuing a Masters double degree in <b>Data Science/Artificial Intelligence</b> <b>Information Systems Engineering</b> at <u>École Nationale Supérieure d'Informatique et de Mathématiques Appliquées de Grenoble</u>
 
-🎓 🇫🇷 I am pursuing a Masters degree in <b>Ingénierie des Systèmes d'Information</b> at <u>École Nationale Supérieure d'Informatique et de Mathématiques Appliquées</u>
+🎓 🇧🇷 I am pursuing a bachelor degree in <b>Computer Science</b> at <u>Universidade Federal do Rio Grande do Sul</u>
 
 ✈️ 🇧🇷 I did 3 years of <b>Aeronautical Sciences</b> and <b>Public Management</b> while serving in the <u>Brazilian Air Force</u>
 
