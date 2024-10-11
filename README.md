@@ -1,4 +1,4 @@
-<img src="https://github.com/shmjade/shmjade/blob/main/header-nlp.gif" alt="Header"  width="1200"/>
+<img src="https://github.com/shmjade/shmjade/blob/main/header-ds-nlp.gif" alt="Header"  width="1200"/>
 
 
 <h1 align="center">Hi 👋, I'm Jade </h1>
