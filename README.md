@@ -3,11 +3,22 @@
 <h1 align="center">Hi 👋, I'm Jade </h1>
 <br>
 
-🇧🇷 &nbsp;I'm mainly focused on my Double Degree program now, but, in paralell, I keep some personal projects.
+&nbsp;I'm mainly focused on my Double Degree program now, but, in paralell, I keep some personal projects.
 <br>
 
-Currently, I am focusing on Natural Language Processing and Deep Learning. Check out some projects on my [Data Science dedicated repository](https://github.com/shmjade/data-science).
+<h3 align="left">🤖   Data Science/Artificial Intelligence</h3>
 
+Currently, I am focusing on Natural Language Processing and Deep Learning. <br>
+Check out some projects on my [Data Science dedicated repository](https://github.com/shmjade/data-science).
+<br>
+
+</br>
+
+<h3 align="left">💻   Software Engineering</h3>
+
+Currently, I am focusing on Microsservices architecture and CI/CD. <br>
+Check out some projects on my [Software Engineering dedicated repository](https://github.com/shmjade/data-science).
+<br>
 </br>
 
 <h3 align="left">Connect with me:</h3>
