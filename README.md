@@ -9,7 +9,7 @@
 <h3 align="left">🤖   Data Science/Artificial Intelligence</h3>
 
 Currently, I am focusing on Natural Language Processing and Deep Learning. <br>
-Check out some projects on my [Data Science dedicated repository](https://github.com/shmjade/data-science).
+<!-- Check out some projects on my [Data Science dedicated repository](https://github.com/shmjade/data-science). -->
 <br>
 
 </br>
@@ -17,7 +17,7 @@ Check out some projects on my [Data Science dedicated repository](https://github
 <h3 align="left">💻   Software Engineering</h3>
 
 Currently, I am focusing on Microsservices architecture and CI/CD. <br>
-Check out some projects on my [Software Engineering dedicated repository](https://github.com/shmjade/data-science).
+<!-- Check out some projects on my [Software Engineering dedicated repository](https://github.com/shmjade/data-science). -->
 <br>
 </br>
 
