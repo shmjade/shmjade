@@ -3,6 +3,31 @@
 <h1 align="center">Hi 👋, I'm Jade </h1>
 <br>
 
+<h3 align="left">👩🏽‍💻 Experience</h3>
+<br>
+💻 <b>[2024-2025] Machine Learning Research Fellow @UFRGS</b>
+<br>
+<ul>
+<li>Partnership between <b>VTEX</b> and <b>UFRGS</b></li>
+<li>Assisted on the development of a LLM-as-a-judge framework to evaluate the search engine of e-commerce systems.</b></li>
+<li>Structured catalogs through Product Attribute Value Extraction using LLMs.</b></li>
+<!-- <li>Assisted on the development of a LLM-as-a-judge framework to evaluate the search engine of e-commerce systems.</b></li> -->
+</ul>
+<br>
+💻 <b>[2025-2025] Machine Learning Engineer Intern @Amadeus</b>
+<br>
+<ul>
+<!-- <li>End-of-studies Internship (Masters thesis)</li> -->
+<li>Developed an AI-based recovery module to propose solutions to new incidents based on past incidents.</b></li>
+  <ul>
+    <li>XGBoost model for recovery action prediction</li>
+    <li>Data augmentation using LLMs</li>
+    <li>BM25 past similar incidents ranker</li>
+    <li>Incident summarization using LLMs</li>
+    <li>End-to-end project: from data ingestion to deploy</li>
+  </ul>
+</ul>
+<br><br>
 
 <h3 align="left">👩🏽‍💻 Education</h3>
 <br>
@@ -29,6 +54,7 @@
 <br><br>
 
 </br>
+
 
 <h3 align="left">👩🏽‍💻 My personal portfolio</h3>
 
