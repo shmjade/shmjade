@@ -27,6 +27,37 @@
     <li>End-to-end project: from data ingestion to deploy</li>
   </ul>
 </ul>
+<br>
+💻 <b>[2024-2024] Software Engineer Intern @Moody's Analytics</b>
+<br>
+<ul>
+<li>Automatized report generation for the QA team.</b></li>
+  <ul>
+    <li>Designed a system that automatically generated SQL queries based on QA's needs</li>
+    <li>Data extraction, processing, and analysis using Python, Pandas and SQL</li>
+    <li>Jenkins for CI/CD, Docker for containerization, and Networkx for database structure analysis</li>
+    <li>AWS EC2 to manipulate staging/testing environments</li>
+  </ul>
+</ul>
+
+<br>
+💻 <b>[2023-2023] Software Engineer Intern @Nubank</b>
+<br>
+<ul><li>Implemented algorithms to prevent fraudulent transactions, using Clojure.</b></li></ul>
+<br>
+💻 <b>[2022-2023] Software Developer and Support Engineer Intern @SAP</b>
+<br>
+<ul><li>Contributed to the backend of SAP’s Data Intelligence software, employing Go, Python, Docker and CI/CD techniques.</b></li></ul>
+<br>
+💻 <b>[2021-2022] Machine Learning Research Fellow @UFRGS</b>
+<br>
+<ul><li>Crafted Graph Neural Networks for social network analysis.</b></li></ul>
+<br>
+💻 <b>[2018-2020] Air Force Pilot Cadet @Brazilian Air Force</b>
+<br>
+<ul><li>Designed and deployed a real-time data collection and analytics system, migrating from manual paper analysis to cloud.</b></li>
+<li>Organized lectures and programming classes as Advisor of the Eletronic and Cybernetics Warfare Club.</b></li>
+<li>Completed the T-25 and DG1000 flight trainings.</b></li></ul>
 <br><br>
 
 <h3 align="left">👩🏽‍💻 Education</h3>
